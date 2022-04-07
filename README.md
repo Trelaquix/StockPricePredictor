@@ -1,5 +1,5 @@
 # StockPricePredictor
-Stock Price Predictor Using LSTM
+Stock Price Predictor using different machine learning methods
 
 ## Ver1
 Predcition Using LSTM<br />
