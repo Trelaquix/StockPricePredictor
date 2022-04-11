@@ -13,3 +13,7 @@ Reference: https://www.youtube.com/watch?v=Iu5T2TZumxU&ab_channel=ComputerScienc
 ## Ver3
 Prediction Using LSTM with codes for predicting<br />
 Reference: https://www.youtube.com/watch?v=QIUxPv5PJOY&ab_channel=ComputerScience
+
+## Ver3
+Prediction Using LSTM for forecasting<br />
+Reference: https://www.youtube.com/watch?v=5Gm3bWNBoWQ&ab_channel=shubhambhalala
