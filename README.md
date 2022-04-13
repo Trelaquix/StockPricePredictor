@@ -29,7 +29,7 @@ Prediction Using LSTM with best results
 1. Filter first then split
 2. Apply MinMaxScaling
 3. Decide on % to split
-4. Split first then apply scale ransform
+4. Split first then apply scale transform
 5. Divide the data into x_train and y_train, create empty lists for both
 6. Append to empty lists depending on number of steps
 7. Convert both lists to numpy arrays
