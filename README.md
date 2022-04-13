@@ -24,3 +24,21 @@ Reference: https://www.youtube.com/watch?v=s3CnE2tqQdo&ab_channel=GeeksforGeeks
 
 ## Ver6
 Prediction Using LSTM with best results
+
+
+Notes:
+1. Filter first then split
+2. Apply MinMaxScaling
+3. Decide on % to split
+4. Split first then apply scale ransform
+5. Divide the data into x_train and y_train, create empty lists for both
+6. Append to empty lists depending on number of steps
+7. Convert both lists to numpy arrays
+8. Potentially reshape the data? (Ver 3)
+9. Build the LSTM model
+10. Compile the model
+11. Train the model
+12. Fit the model
+13. Append training to testing data (Ver 5)
+14. Or create the testing data (Ver 3)
+15. Both versions differ greatly afterwards
