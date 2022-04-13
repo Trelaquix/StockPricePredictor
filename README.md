@@ -25,7 +25,7 @@ Reference: https://www.youtube.com/watch?v=s3CnE2tqQdo&ab_channel=GeeksforGeeks
 ## Ver6
 Prediction Using LSTM with best results
 
-## Notes:
+## Notes (Ver 3 vs Ver 5:
 1. Filter first then split
 2. Apply MinMaxScaling
 3. Decide on % to split
