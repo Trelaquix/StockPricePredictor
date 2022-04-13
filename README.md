@@ -21,3 +21,6 @@ Reference: https://www.youtube.com/watch?v=5Gm3bWNBoWQ&ab_channel=shubhambhalala
 ## Ver5
 Prediction Using LSTM<br />
 Reference: https://www.youtube.com/watch?v=s3CnE2tqQdo&ab_channel=GeeksforGeeks
+
+## Ver6
+Prediction Using LSTM with best results
